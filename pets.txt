@@ -1,0 +1,5 @@
+/* Animals that's a pet name */
+
+1. Dogs
+2. Cats
+3. white Mouse
