@@ -3,3 +3,8 @@
 1. Donkeys
 2. Monkeys
 3. Lions
+
+/* Two more animals name you can fine in the zoo */
+
+4. Kangaroo
+5. Cheeetah
